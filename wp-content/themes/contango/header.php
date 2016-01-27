@@ -7,6 +7,33 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" media="all" />
 
+<META NAME="robots" CONTENT="INDEX, FOLLOW">
+<META name="keywords" content="Bunny, Maid Veronica, BDSM, Dream, Veronica, Slave, Slave Bunny, βμηηγ">
+<META name="description" content="Is my dream a reality or is my reality a dream.">
+  <!-- Bunny --><cmt>
+
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://www.mybdsmdream.com",
+      "logo": "https://www.mybdsmdream.com/wp-content/uploads/2016/01/Shibari.jpg"
+    }
+    </script>
+
+  <script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Person",
+  "name" : "Slave Bunny",
+  "url" : "https://www.mybdsmdream.com/",
+  "sameAs" : [
+    "https://twitter.com/whiterabbit__ny",
+    "https://www.instagram.com/whiterabbitny/"
+  ]
+}
+</script>
+
 <?php wp_head(); ?>
 </head>
 
